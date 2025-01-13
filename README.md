@@ -1,7 +1,9 @@
 ## Hello World!,I am Abhinav 👋
 # 💫About Me :
 🔭 I’m currently working on FullStack Web Development
+
 🌱 Studying Bachelor's of Computer Application from Gyan Ganga
+
 ⚡ Learning new things everyday
 
 ## 🌐Socials
