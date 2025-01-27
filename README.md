@@ -1,5 +1,5 @@
-## Hello World!,I am Abhinav 👋
-# 💫About Me :
+
+# 💫Hello World!,I am Abhinav 👋
 🔭 I’m currently working on FullStack Web Development
 
 🌱 Studying Bachelor's of Computer Application from Gyan Ganga
